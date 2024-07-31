@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 5,
+      "data": "500MB"
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 10,
+      "data": "1GB"
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 20,
+      "data": "3GB"
+    },
+    {
+      "id": 4,
+      "name": "Economy Plan",
+      "price": 7,
+      "data": "700MB"
+    },
+    {
+      "id": 5,
+      "name": "Business Plan",
+      "price": 15,
+      "data": "2GB"
+    },
+    {
+      "id": 6,
+      "name": "First Class Plan",
+      "price": 30,
+      "data": "5GB"
+    },
+    {
+      "id": 7,
+      "name": "Traveler Plan",
+      "price": 12,
+      "data": "1.5GB"
+    },
+    {
+      "id": 8,
+      "name": "Frequent Flyer Plan",
+      "price": 25,
+      "data": "4GB"
+    },
+    {
+      "id": 9,
+      "name": "Ultimate Plan",
+      "price": 50,
+      "data": "10GB"
+    },
+    {
+      "id": 10,
+      "name": "Family Plan",
+      "price": 35,
+      "data": "6GB"
+    },
+    {
+      "id": 11,
+      "name": "Solo Plan",
+      "price": 8,
+      "data": "800MB"
+    },
+    {
+      "id": 12,
+      "name": "Student Plan",
+      "price": 6,
+      "data": "600MB"
+    }
+  ]
+  
